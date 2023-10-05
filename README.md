@@ -14,9 +14,9 @@
 - ⚡ Lets talk about: **Games, Music, and Algorithms**
   
 - 👨‍💻 Codes on:
-  <a href="https://www.hackerrank.com/diwakardhawal_34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aayush_yadav2020" height="30" width="40" /></a>
-<a href="https://leetcode.com/Diwakar_Dhawal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aayushdev-02" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/diwakardhawal34/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yadavaayush002" height="30" width="40" /></a>
+  <a href="https://https://www.hackerrank.com/MukulSharmash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aayush_yadav2020" height="30" width="40" /></a>
+<a href=https://leetcode.com/mukulsharmash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aayushdev-02" height="30" width="40" /></a>
+
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
